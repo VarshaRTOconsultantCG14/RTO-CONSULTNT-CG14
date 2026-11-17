@@ -63,9 +63,9 @@ document.addEventListener("DOMContentLoaded", function () {
             ]
         },
 
-        "Insurance Renewal": {
-            title: "Insurance Renewal",
-            description: "Insurance Renewal ensures your vehicle remains legally insured and protected against unexpected risks and damages.",
+        "All Insurance Services": {
+            title: "All Insurance Services",
+            description: "Insurance ensures your future remain legally insured and protected against unexpected risks and big tragedy.",
             about: "We help customers understand their vehicle insurance renewal requirements and available documentation.",
             documents: [
                 "Existing insurance policy",
